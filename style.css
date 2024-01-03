@@ -1,0 +1,39 @@
+/* .container {
+    background-color: blanchedalmond;
+    height: 100vh;
+} */
+
+
+.container {
+    height: 100vh;
+}
+
+
+.carousel-caption p {
+    margin-bottom: 200px;
+}
+
+.carousel-caption h5 {
+    font-size: 40px;
+}
+
+.carousel-inner {
+    height: 80vh;
+}
+
+.navbar-nav li {
+    font-size: 22px;
+}
+
+.text-justify p {
+    color: black;
+    font-size: 17px;
+    text-align: justify;
+}
+
+.card img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 200px; /* Atur lebar sesuai kebutuhan */
+}
